@@ -53,7 +53,6 @@ const displayMealsDetails = details => {
                     <h5 class="card-text mb-4">Ingredients</h5>
                     <div id="ingredients">
                    </div>
-                   <p class=" mt-4 md-0 footer" >  &copy; by Fahan Ahmed Nahid. </p>
                 </div>
                 </div>
             </div>
